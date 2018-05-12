@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33129
     wikipedia: http://de.wikipedia.org/wiki/Otto_Ernst
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28083#Semper-der-J-ngling
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2009-02-14'
 gutenberg_type: Text
